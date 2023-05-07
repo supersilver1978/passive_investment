@@ -41,36 +41,11 @@ https://user-images.githubusercontent.com/126728866/236705592-e809bf6a-a059-4d10
     2. You can click shift + enter on each block of code to run each batch of code as you go through it. 
 <img width="350" alt="run preview" src=https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/run.png>
 
-  ### *5 Important Steps*
-  Our goal is ultimately to answer the following two questions:
-    1. Which of the two portfolios seem more sensitive to movements in the S&P 500?
-    2. Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
+  ### *Final Product*
+  Our goal is ultimately to understand the performance of the portfolio over time.
   
-  -**Step 1: Importing Data** 
-      - Import required libraries and dependancies
-      - Import paths to read the csv
-      - Create a daily returns dataframe and preview the data
-      
-  **Step 2: Analyzing the Performance** 
-      - Plot the daily returns and cumulative returns over the 6 years of the whales and S&P 500
+    <img width="590" alt="Screenshot 2023-05-07 153634" src="https://user-images.githubusercontent.com/126728866/236705918-b014d387-ede8-4e70-8faa-f9ad5253e48c.png">
 
-  **Step 3: Analyzing the Volatility** 
-      - Box plot of cumulative returns gives a nice visual of the variance
-      - Dropping S&P and creating a box plot of just the whales gives a better perspective of their relative behavior      
-
-  **Step 4: Analyzing the Risk** 
-      - Plotting line graphs of the 21-day rolling average of standard deviation of returns is a good visual to evaluate risk.
-      - The S&P500 index operates on a much d
-      ifferent scale so you will need to remove it from the list and plot the whales to visualize the comparative risk.
-    
-  **Step 5: Analyzing Risk to Reward Ratios** 
-      - Average annual returns and sharpe ratios are great tools for analyzing risk to reward ratios. 
-      - This excercise clearly demonstrates that a high sharpe ratio can also yield low returns (ie. Tiger) so a thorough analysis is always key.
-      
-**Step 6: Diversification** 
-      - Evaluating covariance and beta of the whales is important for understanding the diversification of a portfolio.
-    
-    
 ## *Contributor*
 
 - Michelle Silver
