@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/126728866/236705592-e809bf6a-a059-4d10
   ### *Final Product*
   Our goal is ultimately to understand the performance of the portfolio over time.
   
-    <img width="590" alt="Screenshot 2023-05-07 153634" src="https://user-images.githubusercontent.com/126728866/236705918-b014d387-ede8-4e70-8faa-f9ad5253e48c.png">
+  <img width="590" alt="Screenshot 2023-05-07 153634" src="https://user-images.githubusercontent.com/126728866/236706293-8199d278-0bf2-4083-b004-50dbc14bac4f.png">
 
 ## *Contributor*
 
